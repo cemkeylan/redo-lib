@@ -2,7 +2,10 @@ redo-lib
 ========
 
 `redo-lib` is a set of helper functions one can incorporate to their source code
-to complement the redo build system.
+to complement the [redo] build system.
+
+
+[redo]: http://cr.yp.to/redo.html
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
